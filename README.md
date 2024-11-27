@@ -22,7 +22,7 @@ Welcome to my GitHub! Here, you'll find a curated selection of projects that mer
 ## 📂 Portfolio Highlights  
 
 - **🔍 Power BI Projects:**  
-  [Explore my interactive dashboards and business intelligence models](https://app.powerbi.com/links).  
+  [Explore my interactive dashboards and business intelligence models](https://www.novypro.com/profile_projects/habeeb).  
 - **📈 Tableau Dashboards:**  
   [Dive into my storytelling with data using Tableau](https://public.tableau.com/profile/halbeeb).  
 - **🖥️ Data Engineering Pipelines:**  
